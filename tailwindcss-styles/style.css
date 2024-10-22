@@ -573,6 +573,9 @@ video {
 .h-3 {
   height: 30px;
 }
+.h-\[100px\] {
+  height: 100px;
+}
 .w-3 {
   width: 30px;
 }

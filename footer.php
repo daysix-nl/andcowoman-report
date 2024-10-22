@@ -7,7 +7,7 @@
  ?>
 
 <footer>
-
+<div class="h-[100px]"></div>
 
 </footer>
 <?php wp_footer(); ?>
