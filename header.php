@@ -22,7 +22,7 @@
 <header>
 
 <div class="container">
-    <div class="">
+    <div class="flex justify-end">
         <img id="navbar-id" src="https://andcowoman.com/wp-content/themes/andcowoman/img/and-co-woman-logo-blk.png">
     </div>
 </div>
